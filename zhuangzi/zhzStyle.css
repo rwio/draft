@@ -38,14 +38,17 @@ margin-left: 3em;
 }
 
 em { /*explain*/
-color: blue;
+/*color: blue;
+font-weight: bold;*/
 font-style: normal;
+border-bottom: 0.8px dotted #000;
 }
 
 q { /*quotes*/
-quotes: "「" "」";
-/*quotes: none;*/
-color: red;
+quotes: none;
+/*quotes: "「" "」";
+color: red;*/
+font-weight: bold;
 }
 
 p.right {
@@ -55,7 +58,7 @@ text-align: right;
 small {
 font-size: 0.75em;
 /*background-color: #333;*/
-color: blue;
+color: #444;
 }
 
 p.extra {
