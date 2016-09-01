@@ -46,9 +46,9 @@ border-bottom: 0.8px dotted #000;
 
 q { /*quotes*/
 quotes: none;
+color: blue;
 /*quotes: "「" "」";
-color: red;*/
-font-weight: bold;
+font-weight: bold;*/
 }
 
 p.right {
